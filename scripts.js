@@ -1037,52 +1037,52 @@ var flashcards = [
     },
     {
         "id": 149,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "面包",
+        "pinyin": "Miànbāo",
+        "english": "Bread",
+        "type": "Noun"
     },
     {
         "id": 150,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "奶酪",
+        "pinyin": "Nǎilào",
+        "english": "Cheese",
+        "type": "Noun"
     },
     {
         "id": 151,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "蛋",
+        "pinyin": "Dàn",
+        "english": "Egg",
+        "type": "Noun"
     },
     {
         "id": 152,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "叉子",
+        "pinyin": "叉子",
+        "english": "Fork",
+        "type": "Noun"
     },
     {
         "id": 153,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "汤",
+        "pinyin": "Tāng",
+        "english": "Soup",
+        "type": "Noun"
     },
     {
         "id": 154,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "刀",
+        "pinyin": "Dāo",
+        "english": "Knife",
+        "type": "Noun"
     },
     {
         "id": 155,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "勺子",
+        "pinyin": "Sháozi",
+        "english": "Spoon",
+        "type": "Noun"
     },
     {
         "id": 156,
@@ -7003,7 +7003,7 @@ var flashcards = [
 var current_card = {}
 var next_c = false
 function pick_random_card() {
-    var num = Math.floor(Math.random() * 148);//flashcards.length);
+    var num = Math.floor(Math.random() * 155);//flashcards.length);
     current_card = flashcards[num]
     console.log(current_card)
 }
