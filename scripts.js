@@ -7003,7 +7003,7 @@ var flashcards = [
 var current_card = {}
 var next_c = false
 function pick_random_card() {
-    var num = Math.floor(Math.random() * 155);//flashcards.length);
+    var num = Math.floor(Math.random() * 167);//flashcards.length);
     current_card = flashcards[num]
     console.log(current_card)
 }

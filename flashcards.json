@@ -1086,86 +1086,86 @@
     },
     {
         "id": 156,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "土",
+        "pinyin": "土",
+        "english": "Earth",
+        "type": "Noun"
     },
     {
         "id": 157,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "心",
+        "pinyin": "Xīn",
+        "english": "Heart",
+        "type": "Noun"
     },
     {
         "id": 158,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "鼠",
+        "pinyin": "Shǔ",
+        "english": "Rat",
+        "type": "Noun"
     },
     {
         "id": 159,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "牛",
+        "pinyin": "Niú",
+        "english": "Ox",
+        "type": "Noun"
     },
     {
         "id": 160,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "虎",
+        "pinyin": "Hǔ",
+        "english": "Tiger",
+        "type": "Noun"
     },
     {
         "id": 161,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "兔子",
+        "pinyin": "Tùzǐ",
+        "english": "Rabbit",
+        "type": "Noun"
     },
     {
         "id": 162,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "龙",
+        "pinyin": "Lóng",
+        "english": "Dragon",
+        "type": "Noun"
     },
     {
         "id": 163,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "蛇",
+        "pinyin": "Shé",
+        "english": "Snake",
+        "type": "Noun"
     },
     {
         "id": 164,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "羊",
+        "pinyin": "Yáng",
+        "english": "Goat",
+        "type": "Noun"
     },
     {
         "id": 165,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "猴",
+        "pinyin": "Hóu",
+        "english": "Monkey",
+        "type": "Noun"
     },
     {
         "id": 166,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "鸡",
+        "pinyin": "Jī",
+        "english": "Rooster",
+        "type": "Noun"
     },
     {
         "id": 167,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
+        "chinese": "猪",
+        "pinyin": "Zhū",
+        "english": "Pig",
         "type": ""
     },
     {
