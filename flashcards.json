@@ -1,7002 +1,6009 @@
 [
     {
         "id": 1,
-        "chinese": "苹果",
-        "pinyin": "Píngguǒ",
-        "english": "Apple",
-        "type": "Noun"
+        "chinese": "零",
+        "pinyin": "líng",
+        "english": "zero/0"
     },
     {
         "id": 2,
-        "chinese": "我",
-        "pinyin": "Wǒ",
-        "english": "I/Me",
-        "type": "Pronoun"
+        "chinese": "一",
+        "pinyin": "yī",
+        "english": "one/1"
     },
     {
         "id": 3,
-        "chinese": "你",
-        "pinyin": "Nǐ",
-        "english": "You",
-        "type": "Pronoun"
+        "chinese": "二",
+        "pinyin": "èr",
+        "english": "two/2"
     },
     {
         "id": 4,
-        "chinese": "忙",
-        "pinyin": "Máng",
-        "english": "Busy",
-        "type": "Adjective"
+        "chinese": "三",
+        "pinyin": "sān",
+        "english": "three/3"
     },
     {
         "id": 5,
-        "chinese": "买",
-        "pinyin": "Mǎi",
-        "english": "To Buy",
-        "type": "Verb"
+        "chinese": "四",
+        "pinyin": "sì",
+        "english": "four/4"
     },
     {
         "id": 6,
-        "chinese": "累",
-        "pinyin": "Lèi",
-        "english": "Tired",
-        "type": "Adjective"
+        "chinese": "五",
+        "pinyin": "wǔ",
+        "english": "five/5"
     },
     {
         "id": 7,
-        "chinese": "好",
-        "pinyin": "Hǎo",
-        "english": "Good",
-        "type": "Adjective"
+        "chinese": "六",
+        "pinyin": "liù",
+        "english": "six/6"
     },
     {
         "id": 8,
-        "chinese": "学生",
-        "pinyin": "Xuéshēng",
-        "english": "Student",
-        "type": "Noun"
+        "chinese": "七",
+        "pinyin": "qī",
+        "english": "seven/7"
     },
     {
         "id": 9,
-        "chinese": "老师",
-        "pinyin": "Lǎoshī",
-        "english": "Teacher",
-        "type": "Noun"
+        "chinese": "八",
+        "pinyin": "bā",
+        "english": "eight/8"
     },
     {
         "id": 10,
-        "chinese": "吃",
-        "pinyin": "Chī",
-        "english": "To Eat",
-        "type": "Verb"
+        "chinese": "九",
+        "pinyin": "jiǔ",
+        "english": "nine/9"
     },
     {
         "id": 11,
-        "chinese": "茶",
-        "pinyin": "Chá",
-        "english": "Tea",
-        "type": "Noun"
+        "chinese": "十",
+        "pinyin": "shí",
+        "english": "ten/10"
     },
     {
         "id": 12,
-        "chinese": "书",
-        "pinyin": "Shū",
-        "english": "Book",
-        "type": "Noun"
+        "chinese": "两",
+        "pinyin": "liǎng",
+        "english": "two (Counting objects)"
     },
     {
         "id": 13,
-        "chinese": "女儿",
-        "pinyin": "Nǚ'ér",
-        "english": "Daughter",
-        "type": "Noun"
+        "chinese": "百",
+        "pinyin": "bǎi",
+        "english": "hundred"
     },
     {
         "id": 14,
-        "chinese": "水",
-        "pinyin": "Shuǐ",
-        "english": "Water",
-        "type": "Noun"
+        "chinese": "千",
+        "pinyin": "qiān",
+        "english": "thousand"
     },
     {
         "id": 15,
-        "chinese": "饱",
-        "pinyin": "Bǎo",
-        "english": "Full from eating",
-        "type": "Adjective"
+        "chinese": "第一",
+        "pinyin": "dì-yī",
+        "english": "first"
     },
     {
         "id": 16,
-        "chinese": "容易",
-        "pinyin": "Róngyì",
-        "english": "Easy",
-        "type": "Adjective"
+        "chinese": "第二",
+        "pinyin": "dì-èr",
+        "english": "second"
     },
     {
         "id": 17,
-        "chinese": "北",
-        "pinyin": "Běi",
-        "english": "North",
-        "type": "Noun"
+        "chinese": "我",
+        "pinyin": "wǒ",
+        "english": "I/me"
     },
     {
         "id": 18,
-        "chinese": "南",
-        "pinyin": "Nán",
-        "english": "South",
-        "type": "Noun"
+        "chinese": "你",
+        "pinyin": "nǐ",
+        "english": "you"
     },
     {
         "id": 19,
-        "chinese": "东",
-        "pinyin": "Dōng",
-        "english": "East",
-        "type": "Noun"
+        "chinese": "您",
+        "pinyin": "nín",
+        "english": "you (honorific)"
     },
     {
         "id": 20,
-        "chinese": "西",
-        "pinyin": "Xī",
-        "english": "West",
-        "type": "Noun"
+        "chinese": "他",
+        "pinyin": "tā",
+        "english": "he/him"
     },
     {
         "id": 21,
-        "chinese": "问",
-        "pinyin": "Wèn",
-        "english": "To Ask",
-        "type": "Verb"
+        "chinese": "她",
+        "pinyin": "tā",
+        "english": "she/her"
     },
     {
         "id": 22,
-        "chinese": "贵",
-        "pinyin": "Guì",
-        "english": "Expensive",
-        "type": "Adjective"
+        "chinese": "它",
+        "pinyin": "tā",
+        "english": "it"
     },
     {
         "id": 23,
-        "chinese": "西瓜",
-        "pinyin": "Xīguā",
-        "english": "Watermelon",
+        "chinese": "我们",
+        "pinyin": "wǒmen",
+        "english": "We",
         "type": "Noun"
     },
     {
         "id": 24,
-        "chinese": "红色",
-        "pinyin": "Hóngsè",
-        "english": "Red",
-        "type": "Adjective"
+        "chinese": "大家",
+        "pinyin": "dàjiā",
+        "english": "everybody"
     },
     {
         "id": 25,
-        "chinese": "玩",
-        "pinyin": "Wán",
-        "english": "To Play",
-        "type": "Verb"
+        "chinese": "这/这儿",
+        "pinyin": "zhè/zhèr",
+        "english": "this/here"
     },
     {
         "id": 26,
-        "chinese": "对",
-        "pinyin": "Duì",
-        "english": "Correct",
-        "type": "Adjective"
+        "chinese": "那/那儿",
+        "pinyin": "nà/nàr",
+        "english": "that/there"
     },
     {
         "id": 27,
-        "chinese": "信用卡",
-        "pinyin": "Xìnyòngkǎ",
-        "english": "Credit Card",
-        "type": "Noun"
+        "chinese": "那/那儿",
+        "pinyin": "nà/nàr",
+        "english": "which/where"
     },
     {
         "id": 28,
-        "chinese": "难",
-        "pinyin": "Nán",
-        "english": "Difficult",
-        "type": "Adjective"
+        "chinese": "谁",
+        "pinyin": "shéi",
+        "english": "who?"
     },
     {
         "id": 29,
-        "chinese": "眼睛",
-        "pinyin": "Yǎnjīng",
-        "english": "Eye",
-        "type": "Noun"
+        "chinese": "什么",
+        "pinyin": "shénme",
+        "english": "what?"
     },
     {
         "id": 30,
-        "chinese": "帽子",
-        "pinyin": "Màozi",
-        "english": "Hat",
-        "type": "Noun"
+        "chinese": "多少",
+        "pinyin": "duōshao",
+        "english": "how many?/how much?"
     },
     {
         "id": 31,
-        "chinese": "生气",
-        "pinyin": "Shēngqì",
-        "english": "Angry",
-        "type": "Adjective"
+        "chinese": "几",
+        "pinyin": "jǐ",
+        "english": "how many?/how much?"
     },
     {
         "id": 32,
-        "chinese": "哭",
-        "pinyin": "Kū",
-        "english": "To Cry",
+        "chinese": "怎么",
+        "pinyin": "zěnme",
+        "english": "how?",
         "type": "Verb"
     },
     {
         "id": 33,
-        "chinese": "鱼",
-        "pinyin": "Yú",
-        "english": "Fish",
+        "chinese": "怎么样",
+        "pinyin": "zěnmeyàng",
+        "english": "how about?",
         "type": "Noun"
     },
     {
         "id": 34,
-        "chinese": "床",
-        "pinyin": "Chuáng",
-        "english": "Bed",
-        "type": "Noun"
+        "chinese": "为什么",
+        "pinyin": "wèishénme",
+        "english": "why?"
     },
     {
         "id": 35,
-        "chinese": "重",
-        "pinyin": "Zhòng",
-        "english": "Heavy",
-        "type": "Adjective"
+        "chinese": "现在",
+        "pinyin": "xiànzài",
+        "english": "now"
     },
     {
         "id": 36,
-        "chinese": "鼻子",
-        "pinyin": "Bízi",
-        "english": "Nose",
-        "type": "Noun"
+        "chinese": "今天",
+        "pinyin": "jīntiān",
+        "english": "today"
     },
     {
         "id": 37,
-        "chinese": "有",
-        "pinyin": "Yǒu",
-        "english": "To Have",
-        "type": "Verb"
+        "chinese": "明天",
+        "pinyin": "míngtiān",
+        "english": "tomorrow"
     },
     {
         "id": 38,
-        "chinese": "来",
-        "pinyin": "Lái",
-        "english": "To Come",
-        "type": "Verb"
+        "chinese": "昨天",
+        "pinyin": "zuótiān",
+        "english": "yesterday"
     },
     {
         "id": 39,
-        "chinese": "去",
-        "pinyin": "Qù",
-        "english": "To Go",
-        "type": "Verb"
+        "chinese": "早上",
+        "pinyin": "zǎoshàng",
+        "english": "early morning"
     },
     {
         "id": 40,
-        "chinese": "马",
-        "pinyin": "Mǎ",
-        "english": "Horse",
-        "type": "Noun"
+        "chinese": "上午",
+        "pinyin": "shàngwǔ",
+        "english": "morning"
     },
     {
         "id": 41,
-        "chinese": "狗",
-        "pinyin": "Gǒu",
-        "english": "Dog",
-        "type": "Noun"
+        "chinese": "中午",
+        "pinyin": "zhōngwǔ",
+        "english": "noon"
     },
     {
         "id": 42,
-        "chinese": "头",
-        "pinyin": "Tóu",
-        "english": "Head",
-        "type": "Noun"
+        "chinese": "下午",
+        "pinyin": "xiàwǔ",
+        "english": "afternoon"
     },
     {
         "id": 43,
-        "chinese": "小",
-        "pinyin": "Xiǎo",
-        "english": "Small",
-        "type": "Adjective"
+        "chinese": "晚上",
+        "pinyin": "wǎnshàng",
+        "english": "evening"
     },
     {
         "id": 44,
-        "chinese": "看",
-        "pinyin": "Kàn",
-        "english": "To See/Look",
-        "type": "Verb"
+        "chinese": "点",
+        "pinyin": "diǎn",
+        "english": "o'clock"
     },
     {
         "id": 45,
-        "chinese": "杯",
-        "pinyin": "Bēi",
-        "english": "Measure word for Cup(s)",
-        "type": "Measure"
+        "chinese": "小时",
+        "pinyin": "xiǎoshí",
+        "english": "hour"
     },
     {
         "id": 46,
-        "chinese": "这",
-        "pinyin": "Zhè",
-        "english": "This",
-        "type": "Pronoun"
+        "chinese": "分钟",
+        "pinyin": "fēnzhōng",
+        "english": "minute"
     },
     {
         "id": 47,
-        "chinese": "那",
-        "pinyin": "Nà",
-        "english": "That",
-        "type": "Pronoun"
+        "chinese": "年",
+        "pinyin": "nián",
+        "english": "year"
     },
     {
         "id": 48,
-        "chinese": "朋友",
-        "pinyin": "Péngyǒu",
-        "english": "Friend",
-        "type": "Noun"
+        "chinese": "月",
+        "pinyin": "yuè",
+        "english": "month"
     },
     {
         "id": 49,
-        "chinese": "电",
-        "pinyin": "Diàn",
-        "english": "Electricity",
-        "type": "Noun"
+        "chinese": "日",
+        "pinyin": "rì",
+        "english": "day"
     },
     {
         "id": 50,
-        "chinese": "喝",
-        "pinyin": "Hē",
-        "english": "To Drink",
-        "type": "Verb"
+        "chinese": "号",
+        "pinyin": "hào",
+        "english": "date/number"
     },
     {
         "id": 51,
-        "chinese": "听",
-        "pinyin": "Tīng",
-        "english": "To Listen",
-        "type": "Verb"
+        "chinese": "星期",
+        "pinyin": "xīngqī",
+        "english": "week"
     },
     {
         "id": 52,
-        "chinese": "大",
-        "pinyin": "Dà",
-        "english": "Big",
-        "type": "Adjective"
+        "chinese": "时候",
+        "pinyin": "shíhou",
+        "english": "a certain point in time"
     },
     {
         "id": 53,
-        "chinese": "热",
-        "pinyin": "Rè",
-        "english": "Hot",
-        "type": "Adjective"
+        "chinese": "时间",
+        "pinyin": "shíjiān",
+        "english": "a period of time"
     },
     {
         "id": 54,
-        "chinese": "冷",
-        "pinyin": "Lěng",
-        "english": "Cold",
-        "type": "Adjective"
+        "chinese": "去年",
+        "pinyin": "qùnián",
+        "english": "last year"
     },
     {
         "id": 55,
-        "chinese": "也",
-        "pinyin": "Yě",
-        "english": "Also",
-        "type": "Adverb"
+        "chinese": "人",
+        "pinyin": "rén",
+        "english": "person/people"
     },
     {
         "id": 56,
-        "chinese": "脚",
-        "pinyin": "Jiǎo",
-        "english": "Foot",
-        "type": "Noun"
+        "chinese": "男人",
+        "pinyin": "nánrén",
+        "english": "man"
     },
     {
         "id": 57,
-        "chinese": "手",
-        "pinyin": "Shǒu",
-        "english": "Hand",
-        "type": "Noun"
+        "chinese": "女人",
+        "pinyin": "nǚrén",
+        "english": "woman"
     },
     {
         "id": 58,
-        "chinese": "月",
-        "pinyin": "Yuè",
-        "english": "Month",
-        "type": "Noun"
+        "chinese": "名字",
+        "pinyin": "míngzì",
+        "english": "name"
     },
     {
         "id": 59,
-        "chinese": "年",
-        "pinyin": "Nián",
-        "english": "Year",
-        "type": "Noun"
+        "chinese": "妈妈",
+        "pinyin": "māma",
+        "english": "mother"
     },
     {
         "id": 60,
-        "chinese": "想",
-        "pinyin": "Xiǎng",
-        "english": "To want/wish (Polite)",
-        "type": "Verb"
+        "chinese": "爸爸",
+        "pinyin": "bàba",
+        "english": "father"
     },
     {
         "id": 61,
-        "chinese": "毛巾",
-        "pinyin": "Máojīn",
-        "english": "Towel",
-        "type": "Noun"
+        "chinese": "丈夫",
+        "pinyin": "zhàngfu",
+        "english": "husband"
     },
     {
         "id": 62,
-        "chinese": "谁",
-        "pinyin": "Shéi",
-        "english": "Who?",
-        "type": "Pronoun"
+        "chinese": "妻子",
+        "pinyin": "qīzi",
+        "english": "wife"
     },
     {
         "id": 63,
-        "chinese": "猫",
-        "pinyin": "Māo",
-        "english": "Cat",
-        "type": "Noun"
+        "chinese": "孩子",
+        "pinyin": "háizi",
+        "english": "child"
     },
     {
         "id": 64,
-        "chinese": "叫",
-        "pinyin": "Jiào",
-        "english": "To be called",
-        "type": "Verb"
+        "chinese": "儿子",
+        "pinyin": "érzi",
+        "english": "son"
     },
     {
         "id": 65,
-        "chinese": "姓",
-        "pinyin": "Xìng",
-        "english": "Surname",
-        "type": "Noun"
+        "chinese": "女儿",
+        "pinyin": "nǚ’ér",
+        "english": "daughter"
     },
     {
         "id": 66,
-        "chinese": "名字",
-        "pinyin": "Míngzì",
-        "english": "First name",
-        "type": "Noun"
+        "chinese": "哥哥",
+        "pinyin": "gēge",
+        "english": "older brother"
     },
     {
         "id": 67,
-        "chinese": "是",
-        "pinyin": "Shì",
-        "english": "Is/to be",
-        "type": "Verb"
+        "chinese": "姐姐",
+        "pinyin": "jiějie",
+        "english": "older sister"
     },
     {
         "id": 68,
-        "chinese": "你们",
-        "pinyin": "Nǐmen",
-        "english": "You (Plural)",
-        "type": "Pronoun"
+        "chinese": "弟弟",
+        "pinyin": "dìdi",
+        "english": "younger brother"
     },
     {
         "id": 69,
-        "chinese": "他",
-        "pinyin": "Tā",
-        "english": "He",
-        "type": "Pronoun"
+        "chinese": "妹妹",
+        "pinyin": "mèimei",
+        "english": "younger sister"
     },
     {
         "id": 70,
-        "chinese": "喜欢",
-        "pinyin": "Xǐhuān",
-        "english": "To Like",
-        "type": "Verb"
+        "chinese": "朋友",
+        "pinyin": "péngyǒu",
+        "english": "friend"
     },
     {
         "id": 71,
-        "chinese": "咖啡",
-        "pinyin": "Kāfēi",
-        "english": "Coffee",
-        "type": "Noun"
+        "chinese": "先生",
+        "pinyin": "xiānsheng",
+        "english": "mr/sir"
     },
     {
         "id": 72,
-        "chinese": "菜",
-        "pinyin": "Cài",
-        "english": "Dish/Cuisine",
-        "type": "Noun"
+        "chinese": "小姐",
+        "pinyin": "xiǎojiě",
+        "english": "ms/miss"
     },
     {
         "id": 73,
-        "chinese": "口",
-        "pinyin": "Kǒu",
-        "english": "Measure word for family members",
-        "type": "Measure"
+        "chinese": "老师",
+        "pinyin": "lǎoshī",
+        "english": "teacher"
     },
     {
         "id": 74,
-        "chinese": "个",
-        "pinyin": "Gè",
-        "english": "General Measure word",
-        "type": "Measure"
+        "chinese": "学生",
+        "pinyin": "xuésheng",
+        "english": "student"
     },
     {
         "id": 75,
-        "chinese": "爸爸",
-        "pinyin": "Bàba",
-        "english": "Father",
-        "type": "Noun"
+        "chinese": "同学",
+        "pinyin": "tóngxué",
+        "english": "schoolmate"
     },
     {
         "id": 76,
-        "chinese": "妈妈",
-        "pinyin": "Māmā",
-        "english": "Mother",
-        "type": "Noun"
+        "chinese": "医生",
+        "pinyin": "yīshēng",
+        "english": "doctor"
     },
     {
         "id": 77,
-        "chinese": "哥哥",
-        "pinyin": "Gēgē",
-        "english": "Older Brother",
-        "type": "Noun"
+        "chinese": "服务员",
+        "pinyin": "fúwùyuán",
+        "english": "waiter/waitress"
     },
     {
         "id": 78,
-        "chinese": "姐姐",
-        "pinyin": "Jiějiě",
-        "english": "Older Sister",
-        "type": "Noun"
+        "chinese": "身体",
+        "pinyin": "shēntǐ",
+        "english": "body"
     },
     {
         "id": 79,
-        "chinese": "弟弟",
-        "pinyin": "Dìdì",
-        "english": "Younger Brother",
-        "type": "Noun"
+        "chinese": "眼睛",
+        "pinyin": "yǎnjīng",
+        "english": "eye"
     },
     {
         "id": 80,
-        "chinese": "妹妹",
-        "pinyin": "Mèimei",
-        "english": "Younger Sister",
-        "type": "Noun"
+        "chinese": "生日",
+        "pinyin": "shēngrì",
+        "english": "birthday"
     },
     {
         "id": 81,
-        "chinese": "家",
-        "pinyin": "Jiā",
-        "english": "Home",
-        "type": "Noun"
+        "chinese": "东西",
+        "pinyin": "dōngxi",
+        "english": "thing"
     },
     {
         "id": 82,
-        "chinese": "和",
-        "pinyin": "Hé",
-        "english": "And",
-        "type": "Conjunction"
+        "chinese": "钱",
+        "pinyin": "qián",
+        "english": "money"
     },
     {
         "id": 83,
-        "chinese": "好看",
-        "pinyin": "Hǎokàn",
-        "english": "Good looking",
-        "type": "Adjective"
+        "chinese": "水",
+        "pinyin": "shuǐ",
+        "english": "water"
     },
     {
         "id": 84,
-        "chinese": "兄弟姐妹",
-        "pinyin": "Xiōngdì jiěmèi",
-        "english": "Siblings",
-        "type": "Noun"
+        "chinese": "茶",
+        "pinyin": "chá",
+        "english": "tea"
     },
     {
         "id": 85,
-        "chinese": "房子",
-        "pinyin": "Fángzi",
-        "english": "House",
-        "type": "Noun"
+        "chinese": "咖啡",
+        "pinyin": "kāfēi",
+        "english": "coffee"
     },
     {
         "id": 86,
-        "chinese": "家人",
-        "pinyin": "Jiārén",
-        "english": "Family",
-        "type": "Noun"
+        "chinese": "牛奶",
+        "pinyin": "niúnǎi",
+        "english": "milk"
     },
     {
         "id": 87,
-        "chinese": "介绍",
-        "pinyin": "Jièshào",
-        "english": "To Introduce",
-        "type": "Verb"
+        "chinese": "菜",
+        "pinyin": "cài",
+        "english": "dish/cuisine"
     },
     {
         "id": 88,
-        "chinese": "漂亮",
-        "pinyin": "Piàoliang",
-        "english": "Pretty",
-        "type": "Adjective"
+        "chinese": "米饭",
+        "pinyin": "mǐfàn",
+        "english": "cooked rice"
     },
     {
         "id": 89,
-        "chinese": "张",
-        "pinyin": "Zhāng",
-        "english": "Measure word for flat objects (table/photo/paper/cards)",
-        "type": "Measure"
+        "chinese": "鸡蛋",
+        "pinyin": "jīdàn",
+        "english": "egg"
     },
     {
         "id": 90,
-        "chinese": "照片",
-        "pinyin": "Zhàopiàn",
-        "english": "Photo",
-        "type": "Noun"
+        "chinese": "鱼",
+        "pinyin": "yú",
+        "english": "fish"
     },
     {
         "id": 91,
-        "chinese": "多",
-        "pinyin": "Duō",
-        "english": "Many",
-        "type": "Adjective"
+        "chinese": "羊肉",
+        "pinyin": "yángròu",
+        "english": "lamb/mutton"
     },
     {
         "id": 92,
-        "chinese": "两",
-        "pinyin": "Liǎng",
-        "english": "Two (counting objects)",
-        "type": "Number"
+        "chinese": "衣服",
+        "pinyin": "yīfu",
+        "english": "clothes"
     },
     {
         "id": 93,
-        "chinese": "可爱",
-        "pinyin": "Kě'ài",
-        "english": "Cute",
-        "type": "Adjective"
+        "chinese": "书",
+        "pinyin": "shū",
+        "english": "book"
     },
     {
         "id": 94,
-        "chinese": "瓶",
-        "pinyin": "Píng",
-        "english": "Bottle",
-        "type": "Measure"
+        "chinese": "报纸",
+        "pinyin": "bàozhǐ",
+        "english": "newspaper"
     },
     {
         "id": 95,
-        "chinese": "钱",
-        "pinyin": "Qián",
-        "english": "Money",
-        "type": "Noun"
+        "chinese": "票",
+        "pinyin": "piào",
+        "english": "ticket"
     },
     {
         "id": 96,
-        "chinese": "东西",
-        "pinyin": "Dōngxī",
-        "english": "Thing/Stuff",
-        "type": "Noun"
+        "chinese": "桌子",
+        "pinyin": "zhuōzi",
+        "english": "table/desk"
     },
     {
         "id": 97,
-        "chinese": "些",
-        "pinyin": "Xiē",
-        "english": "Some",
-        "type": "Measure"
+        "chinese": "椅子",
+        "pinyin": "yǐzi",
+        "english": "chair"
     },
     {
         "id": 98,
-        "chinese": "百",
-        "pinyin": "Bǎi",
-        "english": "Hundred",
-        "type": "Number"
+        "chinese": "水果",
+        "pinyin": "shuǐguǒ",
+        "english": "fruit"
     },
     {
         "id": 99,
-        "chinese": "一共",
-        "pinyin": "一共",
-        "english": "Altogether",
-        "type": "Adverb"
+        "chinese": "苹果",
+        "pinyin": "píngguǒ",
+        "english": "apple"
     },
     {
         "id": 100,
-        "chinese": "今天",
-        "pinyin": "Jīntiān",
-        "english": "Today",
-        "type": "Noun"
+        "chinese": "西瓜",
+        "pinyin": "xīguā",
+        "english": "watermelon"
     },
     {
         "id": 101,
-        "chinese": "电影",
-        "pinyin": "Diànyǐng",
-        "english": "Movie",
-        "type": "Noun"
+        "chinese": "药",
+        "pinyin": "yào",
+        "english": "medicine"
     },
     {
         "id": 102,
-        "chinese": "上网",
-        "pinyin": "Shàngwǎng",
-        "english": "Go Online",
-        "type": "Verb"
+        "chinese": "杯子",
+        "pinyin": "bēizi",
+        "english": "cup/glass"
     },
     {
         "id": 103,
-        "chinese": "现在",
-        "pinyin": "Xiànzài",
-        "english": "Now",
-        "type": "Noun"
+        "chinese": "手表",
+        "pinyin": "shǒubiǎo",
+        "english": "watch"
     },
     {
         "id": 104,
-        "chinese": "半",
-        "pinyin": "Bàn",
-        "english": "Half",
-        "type": "Noun"
+        "chinese": "手机",
+        "pinyin": "shǒujī",
+        "english": "mobile phone"
     },
     {
         "id": 105,
-        "chinese": "做",
-        "pinyin": "Zuò",
-        "english": "To Do",
-        "type": "Verb"
+        "chinese": "电视",
+        "pinyin": "diànshì",
+        "english": "television"
     },
     {
         "id": 106,
-        "chinese": "做饭",
-        "pinyin": "Zuòfàn",
-        "english": "To Cook",
-        "type": "Verb"
+        "chinese": "电脑",
+        "pinyin": "diànnǎo",
+        "english": "computer"
     },
     {
         "id": 107,
-        "chinese": "杯子",
-        "pinyin": "Bēizi",
-        "english": "Cup",
-        "type": "Noun"
+        "chinese": "电影",
+        "pinyin": "diànyǐng",
+        "english": "movie"
     },
     {
         "id": 108,
-        "chinese": "真",
-        "pinyin": "Zhēn",
-        "english": "Really",
-        "type": "Adverb"
+        "chinese": "飞机",
+        "pinyin": "fēijī",
+        "english": "plane"
     },
     {
         "id": 109,
-        "chinese": "点菜",
-        "pinyin": "Diǎncài",
-        "english": "To Order Food",
-        "type": "Verb"
+        "chinese": "出租车",
+        "pinyin": "chūzūchē",
+        "english": "taxi"
     },
     {
         "id": 110,
-        "chinese": "好吃",
-        "pinyin": "Hàochī",
-        "english": "Tasty/Delicious",
-        "type": "Adjective"
+        "chinese": "公共汽车",
+        "pinyin": "gōnggòngqìchē",
+        "english": "bus"
     },
     {
         "id": 111,
-        "chinese": "零",
-        "pinyin": "Líng",
-        "english": "Zero/0",
-        "type": "Number"
+        "chinese": "自行车",
+        "pinyin": "zìxíngchē",
+        "english": "bicycle"
     },
     {
         "id": 112,
-        "chinese": "一",
-        "pinyin": "Yī",
-        "english": "One/1",
-        "type": "Number"
+        "chinese": "船",
+        "pinyin": "chuán",
+        "english": "boat"
     },
     {
         "id": 113,
-        "chinese": "二",
-        "pinyin": "èr",
-        "english": "two/2",
-        "type": "Number"
+        "chinese": "门",
+        "pinyin": "mén",
+        "english": "door"
     },
     {
         "id": 114,
-        "chinese": "三",
-        "pinyin": "sān",
-        "english": "three/3",
-        "type": "Number"
+        "chinese": "颜色",
+        "pinyin": "yánsè",
+        "english": "colour"
     },
     {
         "id": 115,
-        "chinese": "四",
-        "pinyin": "sì",
-        "english": "four",
-        "type": "Number"
+        "chinese": "猫",
+        "pinyin": "māo",
+        "english": "cat"
     },
     {
         "id": 116,
-        "chinese": "五",
-        "pinyin": "wǔ",
-        "english": "five/5",
-        "type": "Number"
+        "chinese": "狗",
+        "pinyin": "gǒu",
+        "english": "dog"
     },
     {
         "id": 117,
-        "chinese": "六",
-        "pinyin": "liù",
-        "english": "six",
-        "type": "Number"
+        "chinese": "天气",
+        "pinyin": "tiānqì",
+        "english": "weather"
     },
     {
         "id": 118,
-        "chinese": "七",
-        "pinyin": "qī",
-        "english": "seven",
-        "type": "Number"
+        "chinese": "雪",
+        "pinyin": "xuě",
+        "english": "snow"
     },
     {
         "id": 119,
-        "chinese": "八",
-        "pinyin": "bā",
-        "english": "eight",
-        "type": "Number"
+        "chinese": "字",
+        "pinyin": "zì",
+        "english": "character"
     },
     {
         "id": 120,
-        "chinese": "九",
-        "pinyin": "jiǔ",
-        "english": "nine/9",
-        "type": "Number"
+        "chinese": "汉语",
+        "pinyin": "Hànyǔ",
+        "english": "chinese(language)"
     },
     {
         "id": 121,
-        "chinese": "十",
-        "pinyin": "shí",
-        "english": "ten/10",
-        "type": "Number"
+        "chinese": "课",
+        "pinyin": "kè",
+        "english": "lesson"
     },
     {
         "id": 122,
-        "chinese": "她",
-        "pinyin": "tā",
-        "english": "She/Her",
-        "type": "Pronoun"
+        "chinese": "考试",
+        "pinyin": "kǎoshì",
+        "english": "exam"
     },
     {
         "id": 123,
-        "chinese": "我们",
-        "pinyin": "wǒmen",
-        "english": "We",
-        "type": "Pronoun"
+        "chinese": "问题",
+        "pinyin": "wèntí",
+        "english": "question"
     },
     {
         "id": 124,
-        "chinese": "什么",
-        "pinyin": "shénme ",
-        "english": "What?",
+        "chinese": "题",
+        "pinyin": "tí",
+        "english": "question(exam/exercise)",
         "type": "Pronoun"
     },
     {
         "id": 125,
-        "chinese": "人",
-        "pinyin": "rén",
-        "english": "Person/People",
-        "type": "Noun"
+        "chinese": "意思",
+        "pinyin": "yìsi",
+        "english": "meaning"
     },
     {
         "id": 126,
-        "chinese": "儿子",
-        "pinyin": "érzi",
-        "english": "son",
-        "type": "Noun"
+        "chinese": "事情",
+        "pinyin": "shìqing",
+        "english": "matter(issue/situation)"
     },
     {
         "id": 127,
-        "chinese": "先生",
-        "pinyin": "xiānsheng",
-        "english": "Mr/Sir",
-        "type": "Noun"
+        "chinese": "中国",
+        "pinyin": "Zhōngguó",
+        "english": "China"
     },
     {
         "id": 128,
-        "chinese": "小姐",
-        "pinyin": "xiǎojiě",
-        "english": "Miss",
-        "type": "Noun"
+        "chinese": "北京",
+        "pinyin": "Běijīng",
+        "english": "Beijing"
     },
     {
         "id": 129,
-        "chinese": "同学",
-        "pinyin": "tóngxué",
-        "english": "schoolmate",
+        "chinese": "家",
+        "pinyin": "jiā",
+        "english": "home/family",
         "type": "Noun"
     },
     {
         "id": 130,
-        "chinese": "医生",
-        "pinyin": "yīshēng",
-        "english": "doctor",
-        "type": "Noun"
+        "chinese": "房间",
+        "pinyin": "fángjiān",
+        "english": "room"
     },
     {
         "id": 131,
-        "chinese": "衣服",
-        "pinyin": "yīfu",
-        "english": "clothes",
-        "type": "Noun"
+        "chinese": "学校",
+        "pinyin": "xuéxiào",
+        "english": "school"
     },
     {
         "id": 132,
-        "chinese": "桌子",
-        "pinyin": "zhuōzi",
-        "english": "Table/Desk",
-        "type": "Noun"
+        "chinese": "教室",
+        "pinyin": "jiàoshì",
+        "english": "classroom"
     },
     {
         "id": 133,
-        "chinese": "椅子",
-        "pinyin": "yǐzi",
-        "english": "chair",
-        "type": "Noun"
+        "chinese": "公司",
+        "pinyin": "gōngsī",
+        "english": "company"
     },
     {
         "id": 134,
-        "chinese": "水果",
-        "pinyin": "shuǐguǒ",
-        "english": "fruit",
-        "type": "Noun"
+        "chinese": "饭馆",
+        "pinyin": "fànguǎn",
+        "english": "restaurant"
     },
     {
         "id": 135,
-        "chinese": "电视",
-        "pinyin": "diànshì",
-        "english": "TV",
-        "type": "Noun"
+        "chinese": "商店",
+        "pinyin": "shāngdiàn",
+        "english": "shop/store"
     },
     {
         "id": 136,
-        "chinese": "飞机",
-        "pinyin": "fēijī",
-        "english": "plane",
-        "type": "Noun"
+        "chinese": "医院",
+        "pinyin": "yīyuàn",
+        "english": "hospital"
     },
     {
         "id": 137,
-        "chinese": "出租车",
-        "pinyin": "chūzūchē",
-        "english": "taxi",
-        "type": "Noun"
+        "chinese": "机场",
+        "pinyin": "jīchǎng",
+        "english": "airport"
     },
     {
         "id": 138,
-        "chinese": "天气",
-        "pinyin": "tiānqì",
-        "english": "weather",
-        "type": "Noun"
+        "chinese": "火车站",
+        "pinyin": "huǒchēzhàn",
+        "english": "train station"
     },
     {
         "id": 139,
-        "chinese": "在",
-        "pinyin": "zài",
-        "english": "Located/to be in",
+        "chinese": "路",
+        "pinyin": "lù",
+        "english": "road",
         "type": "Verb"
     },
     {
         "id": 140,
-        "chinese": "住",
-        "pinyin": "zhù",
-        "english": "To Live/Stay",
-        "type": "Verb"
+        "chinese": "上",
+        "pinyin": "shàng",
+        "english": "on, above or last"
     },
     {
         "id": 141,
-        "chinese": "回",
-        "pinyin": "huí",
-        "english": "to return",
-        "type": "Verb"
+        "chinese": "下",
+        "pinyin": "xià",
+        "english": "under, below or next"
     },
     {
         "id": 142,
-        "chinese": "想",
-        "pinyin": "xiǎng",
-        "english": "to think",
-        "type": "Verb"
+        "chinese": "左边",
+        "pinyin": "zuǒbiān",
+        "english": "left"
     },
     {
         "id": 143,
-        "chinese": "爱",
-        "pinyin": "ài",
-        "english": "to love",
-        "type": "Verb"
+        "chinese": "右边",
+        "pinyin": "yòubiān",
+        "english": "right"
     },
     {
         "id": 144,
-        "chinese": "蓝色",
-        "pinyin": "Lánsè",
-        "english": "Blue",
-        "type": "Adjective"
+        "chinese": "旁边",
+        "pinyin": "pángbiān",
+        "english": "side"
     },
     {
         "id": 145,
-        "chinese": "白色",
-        "pinyin": "Báisè",
-        "english": "White",
-        "type": "Adjective"
+        "chinese": "前面",
+        "pinyin": "qiánmiàn",
+        "english": "front"
     },
     {
         "id": 146,
-        "chinese": "黑色",
-        "pinyin": "Hēisè",
-        "english": "Black",
-        "type": "Adjective"
+        "chinese": "后面",
+        "pinyin": "hòumiàn",
+        "english": "back"
     },
     {
         "id": 147,
-        "chinese": "黄色",
-        "pinyin": "Huángsè",
-        "english": "Yellow",
-        "type": "Adjective"
+        "chinese": "里",
+        "pinyin": "lǐ",
+        "english": "inside"
     },
     {
         "id": 148,
-        "chinese": "绿色",
-        "pinyin": "lǜsè",
-        "english": "Green",
-        "type": "Adjective"
+        "chinese": "外",
+        "pinyin": "wài",
+        "english": "outside"
     },
     {
         "id": 149,
-        "chinese": "面包",
-        "pinyin": "Miànbāo",
-        "english": "Bread",
-        "type": "Noun"
+        "chinese": "个",
+        "pinyin": "gè",
+        "english": "generic measure word"
     },
     {
         "id": 150,
-        "chinese": "奶酪",
-        "pinyin": "Nǎilào",
-        "english": "Cheese",
-        "type": "Noun"
+        "chinese": "元",
+        "pinyin": "yuán",
+        "english": "monetary unit"
     },
     {
         "id": 151,
-        "chinese": "蛋",
-        "pinyin": "Dàn",
-        "english": "Egg",
-        "type": "Noun"
+        "chinese": "块",
+        "pinyin": "kuài",
+        "english": "monetary unit"
     },
     {
         "id": 152,
-        "chinese": "叉子",
-        "pinyin": "叉子",
-        "english": "Fork",
-        "type": "Noun"
+        "chinese": "本",
+        "pinyin": "běn",
+        "english": "measure word for books"
     },
     {
         "id": 153,
-        "chinese": "汤",
-        "pinyin": "Tāng",
-        "english": "Soup",
+        "chinese": "岁",
+        "pinyin": "suì",
+        "english": "years (of age)",
         "type": "Noun"
     },
     {
         "id": 154,
-        "chinese": "刀",
-        "pinyin": "Dāo",
-        "english": "Knife",
-        "type": "Noun"
+        "chinese": "些",
+        "pinyin": "xiē",
+        "english": "some"
     },
     {
         "id": 155,
-        "chinese": "勺子",
-        "pinyin": "Sháozi",
-        "english": "Spoon",
-        "type": "Noun"
+        "chinese": "次",
+        "pinyin": "cì",
+        "english": "time (frequency of an act)"
     },
     {
         "id": 156,
-        "chinese": "土",
-        "pinyin": "土",
-        "english": "Earth",
-        "type": "Noun"
+        "chinese": "公斤",
+        "pinyin": "gōngjīn",
+        "english": "kilogram"
     },
     {
         "id": 157,
-        "chinese": "心",
-        "pinyin": "Xīn",
-        "english": "Heart",
-        "type": "Noun"
+        "chinese": "件",
+        "pinyin": "jiàn",
+        "english": "measure word for affairs(issues), clothes, furniture"
     },
     {
         "id": 158,
-        "chinese": "鼠",
-        "pinyin": "Shǔ",
-        "english": "Rat",
-        "type": "Noun"
+        "chinese": "张",
+        "pinyin": "zhāng",
+        "english": "measure word for flat objects"
     },
     {
         "id": 159,
-        "chinese": "牛",
-        "pinyin": "Niú",
-        "english": "Ox",
-        "type": "Noun"
+        "chinese": "做",
+        "pinyin": "zuò",
+        "english": "to do"
     },
     {
         "id": 160,
-        "chinese": "虎",
-        "pinyin": "Hǔ",
-        "english": "Tiger",
-        "type": "Noun"
+        "chinese": "是",
+        "pinyin": "shì",
+        "english": "to be"
     },
     {
         "id": 161,
-        "chinese": "兔子",
-        "pinyin": "Tùzǐ",
-        "english": "Rabbit",
-        "type": "Noun"
+        "chinese": "姓",
+        "pinyin": "xìng",
+        "english": "to be surnamed"
     },
     {
         "id": 162,
-        "chinese": "龙",
-        "pinyin": "Lóng",
-        "english": "Dragon",
-        "type": "Noun"
+        "chinese": "在",
+        "pinyin": "zài",
+        "english": "to be located"
     },
     {
         "id": 163,
-        "chinese": "蛇",
-        "pinyin": "Shé",
-        "english": "Snake",
-        "type": "Noun"
+        "chinese": "有",
+        "pinyin": "yǒu",
+        "english": "to have"
     },
     {
         "id": 164,
-        "chinese": "羊",
-        "pinyin": "Yáng",
-        "english": "Goat",
-        "type": "Noun"
+        "chinese": "住",
+        "pinyin": "zhù",
+        "english": "to live/stay"
     },
     {
         "id": 165,
-        "chinese": "猴",
-        "pinyin": "Hóu",
-        "english": "Monkey",
-        "type": "Noun"
+        "chinese": "来",
+        "pinyin": "lái",
+        "english": "to come"
     },
     {
         "id": 166,
-        "chinese": "鸡",
-        "pinyin": "Jī",
-        "english": "Rooster",
-        "type": "Noun"
+        "chinese": "去",
+        "pinyin": "qù",
+        "english": "to go"
     },
     {
         "id": 167,
-        "chinese": "猪",
-        "pinyin": "Zhū",
-        "english": "Pig",
-        "type": ""
+        "chinese": "回",
+        "pinyin": "huí",
+        "english": "to return"
     },
     {
         "id": 168,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "进",
+        "pinyin": "jìn",
+        "english": "to enter"
     },
     {
         "id": 169,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "出",
+        "pinyin": "chū",
+        "english": "to get out"
     },
     {
         "id": 170,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "到",
+        "pinyin": "dào",
+        "english": "to arrive"
     },
     {
         "id": 171,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "想",
+        "pinyin": "xiǎng",
+        "english": "to think"
     },
     {
         "id": 172,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "要",
+        "pinyin": "yào",
+        "english": "to want"
     },
     {
         "id": 173,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "吃",
+        "pinyin": "chī",
+        "english": "to eat"
     },
     {
         "id": 174,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "喝",
+        "pinyin": "hē",
+        "english": "to drink"
     },
     {
         "id": 175,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "说话",
+        "pinyin": "shuōhuà",
+        "english": "to speak"
     },
     {
         "id": 176,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "告诉",
+        "pinyin": "gàosù",
+        "english": "to tell"
     },
     {
         "id": 177,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "问",
+        "pinyin": "wèn",
+        "english": "to ask"
     },
     {
         "id": 178,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "回答",
+        "pinyin": "huídá",
+        "english": "to answer"
     },
     {
         "id": 179,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "看",
+        "pinyin": "kàn",
+        "english": "to look/watch"
     },
     {
         "id": 180,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "看见",
+        "pinyin": "kànjiàn",
+        "english": "to see"
     },
     {
         "id": 181,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "听",
+        "pinyin": "tīng",
+        "english": "to listen"
     },
     {
         "id": 182,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "笑",
+        "pinyin": "xiào",
+        "english": "to smile/laugh"
     },
     {
         "id": 183,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "给",
+        "pinyin": "gěi",
+        "english": "to give"
     },
     {
         "id": 184,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "送",
+        "pinyin": "sòng",
+        "english": "to give as a gift/deliver"
     },
     {
         "id": 185,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "叫",
+        "pinyin": "jiào",
+        "english": "to call"
     },
     {
         "id": 186,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "买",
+        "pinyin": "mǎi",
+        "english": "to buy"
     },
     {
         "id": 187,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "卖",
+        "pinyin": "mài",
+        "english": "to sell"
     },
     {
         "id": 188,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "穿",
+        "pinyin": "chuān",
+        "english": "to wear"
     },
     {
         "id": 189,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "开",
+        "pinyin": "kāi",
+        "english": "to drive/open"
     },
     {
         "id": 190,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "坐",
+        "pinyin": "zuò",
+        "english": "to sit"
     },
     {
         "id": 191,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "读",
+        "pinyin": "dú",
+        "english": "to read"
     },
     {
         "id": 192,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "写",
+        "pinyin": "xiě",
+        "english": "to write"
     },
     {
         "id": 193,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "等",
+        "pinyin": "děng",
+        "english": "to wait"
     },
     {
         "id": 194,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "打电话",
+        "pinyin": "dǎ diànhuà",
+        "english": "to make a phone call"
     },
     {
         "id": 195,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "介绍",
+        "pinyin": "jièshào",
+        "english": "to introduce"
     },
     {
         "id": 196,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "认识",
+        "pinyin": "rènshi",
+        "english": "to know (a person)"
     },
     {
         "id": 197,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "知道",
+        "pinyin": "zhīdao",
+        "english": "to know"
     },
     {
         "id": 198,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "觉得",
+        "pinyin": "juédé",
+        "english": "to feel/think"
     },
     {
         "id": 199,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "懂",
+        "pinyin": "dǒng",
+        "english": "to understand"
     },
     {
         "id": 200,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "找",
+        "pinyin": "zhǎo",
+        "english": "to find"
     },
     {
         "id": 201,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "让",
+        "pinyin": "ràng",
+        "english": "to let"
     },
     {
         "id": 202,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "希望",
+        "pinyin": "xīwàng",
+        "english": "to hope"
     },
     {
         "id": 203,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "帮助",
+        "pinyin": "bāngzhù",
+        "english": "to help"
     },
     {
         "id": 204,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "玩",
+        "pinyin": "wán",
+        "english": "to play"
     },
     {
         "id": 205,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "学习",
+        "pinyin": "xuéxí",
+        "english": "to learn"
     },
     {
         "id": 206,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "工作",
+        "pinyin": "gōngzuò",
+        "english": "to work"
     },
     {
         "id": 207,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "上班",
+        "pinyin": "shàng bān",
+        "english": "to go to work"
     },
     {
         "id": 208,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "睡觉",
+        "pinyin": "shuìjiào",
+        "english": "to sleep"
     },
     {
         "id": 209,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "起床",
+        "pinyin": "qǐ chuáng",
+        "english": "to get up"
     },
     {
         "id": 210,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "喜欢",
+        "pinyin": "xǐhuan",
+        "english": "to like"
     },
     {
         "id": 211,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "爱",
+        "pinyin": "ài",
+        "english": "to love"
     },
     {
         "id": 212,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "唱歌",
+        "pinyin": "chàng gē",
+        "english": "to sing"
     },
     {
         "id": 213,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "跳舞",
+        "pinyin": "tiào wǔ",
+        "english": "to dance"
     },
     {
         "id": 214,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "旅游",
+        "pinyin": "lǚyóu",
+        "english": "to travel"
     },
     {
         "id": 215,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "运动",
+        "pinyin": "yùndòng",
+        "english": "to do sports"
     },
     {
         "id": 216,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "走",
+        "pinyin": "zǒu",
+        "english": "to walk"
     },
     {
         "id": 217,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "跑步",
+        "pinyin": "pǎo bù",
+        "english": "to run"
     },
     {
         "id": 218,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "游泳",
+        "pinyin": "yóu yǒng",
+        "english": "to swim"
     },
     {
         "id": 219,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "足球",
+        "pinyin": "tī zúqiú",
+        "english": "to play soccer"
     },
     {
         "id": 220,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "打篮球",
+        "pinyin": "dǎ lánqiú",
+        "english": "to play basketball"
     },
     {
         "id": 221,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "休息",
+        "pinyin": "xiūxi",
+        "english": "to rest"
     },
     {
         "id": 222,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "生病",
+        "pinyin": "shēng bìng",
+        "english": "to get sick"
     },
     {
         "id": 223,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "洗",
+        "pinyin": "xǐ",
+        "english": "to wash"
     },
     {
         "id": 224,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "开始",
+        "pinyin": "kāishǐ",
+        "english": "to begin"
     },
     {
         "id": 225,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "完",
+        "pinyin": "wán",
+        "english": "to finish"
     },
     {
         "id": 226,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "准备",
+        "pinyin": "zhǔnbèi",
+        "english": "to prepare"
     },
     {
         "id": 227,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "欢迎",
+        "pinyin": "huānyíng",
+        "english": "to welcome"
     },
     {
         "id": 228,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "会",
+        "pinyin": "huì",
+        "english": "can(to know how to)"
     },
     {
         "id": 229,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "能",
+        "pinyin": "néng",
+        "english": "can(to be able to)"
     },
     {
         "id": 230,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "可以",
+        "pinyin": "kěyǐ",
+        "english": "can(to be permitted to)"
     },
     {
         "id": 231,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "下雨",
+        "pinyin": "xià yǔ",
+        "english": "to rain"
     },
     {
         "id": 232,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "好",
+        "pinyin": "hǎo",
+        "english": "good"
     },
     {
         "id": 233,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "大",
+        "pinyin": "dà",
+        "english": "big"
     },
     {
         "id": 234,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "小",
+        "pinyin": "xiǎo",
+        "english": "small"
     },
     {
         "id": 235,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "多",
+        "pinyin": "duō",
+        "english": "many"
     },
     {
         "id": 236,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "少",
+        "pinyin": "shǎo",
+        "english": "few"
     },
     {
         "id": 237,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "热",
+        "pinyin": "rè",
+        "english": "hot"
     },
     {
         "id": 238,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "冷",
+        "pinyin": "lěng",
+        "english": "cold"
     },
     {
         "id": 239,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "快",
+        "pinyin": "kuài",
+        "english": "fast"
     },
     {
         "id": 240,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "慢",
+        "pinyin": "màn",
+        "english": "slow"
     },
     {
         "id": 241,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "远",
+        "pinyin": "yuǎn",
+        "english": "far"
     },
     {
         "id": 242,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "近",
+        "pinyin": "jìn",
+        "english": "near"
     },
     {
         "id": 243,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "对",
+        "pinyin": "duì",
+        "english": "correct"
     },
     {
         "id": 244,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "错",
+        "pinyin": "cuò",
+        "english": "wrong"
     },
     {
         "id": 245,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "长",
+        "pinyin": "cháng",
+        "english": "long"
     },
     {
         "id": 246,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "高",
+        "pinyin": "gāo",
+        "english": "tall/high"
     },
     {
         "id": 247,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "新",
+        "pinyin": "xīn",
+        "english": "new"
     },
     {
         "id": 248,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "贵",
+        "pinyin": "guì",
+        "english": "expensive"
     },
     {
         "id": 249,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "便宜",
+        "pinyin": "piányi",
+        "english": "cheap"
     },
     {
         "id": 250,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "黑",
+        "pinyin": "hēi",
+        "english": "black"
     },
     {
         "id": 251,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "白",
+        "pinyin": "白",
+        "english": "white"
     },
     {
         "id": 252,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "红",
+        "pinyin": "hóng",
+        "english": "red"
     },
     {
         "id": 253,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "晴",
+        "pinyin": "qíng",
+        "english": "sunny"
     },
     {
         "id": 254,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "阴",
+        "pinyin": "yīn",
+        "english": "cloudy"
     },
     {
         "id": 255,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "好吃",
+        "pinyin": "hǎochī",
+        "english": "tasty"
     },
     {
         "id": 256,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "漂亮",
+        "pinyin": "piàoliang",
+        "english": "pretty"
     },
     {
         "id": 257,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "高兴",
+        "pinyin": "gāoxìng",
+        "english": "happy"
     },
     {
         "id": 258,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "快乐",
+        "pinyin": "kuàilè",
+        "english": "happy"
     },
     {
         "id": 259,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "忙",
+        "pinyin": "máng",
+        "english": "busy"
     },
     {
         "id": 260,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "累",
+        "pinyin": "lèi",
+        "english": "tired"
     },
     {
         "id": 261,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "很",
+        "pinyin": "hěn",
+        "english": "very"
     },
     {
         "id": 262,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "非常",
+        "pinyin": "fēicháng",
+        "english": "extremely"
     },
     {
         "id": 263,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "太",
+        "pinyin": "tài",
+        "english": "too.."
     },
     {
         "id": 264,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "都",
+        "pinyin": "dōu",
+        "english": "both/all"
     },
     {
         "id": 265,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "不",
+        "pinyin": "bù",
+        "english": "not"
     },
     {
         "id": 266,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "没",
+        "pinyin": "méi",
+        "english": "not"
     },
     {
         "id": 267,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "每",
+        "pinyin": "měi",
+        "english": "every"
     },
     {
         "id": 268,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "最",
+        "pinyin": "zuì",
+        "english": "most"
     },
     {
         "id": 269,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "真",
+        "pinyin": "zhēn",
+        "english": "really"
     },
     {
         "id": 270,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "也",
+        "pinyin": "yě",
+        "english": "also"
     },
     {
         "id": 271,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "还",
+        "pinyin": "hái",
+        "english": "still"
     },
     {
         "id": 272,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "再",
+        "pinyin": "zài",
+        "english": "again"
     },
     {
         "id": 273,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "就",
+        "pinyin": "jiǜ",
+        "english": "at once"
     },
     {
         "id": 274,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "别",
+        "pinyin": "bié",
+        "english": "don't..."
     },
     {
         "id": 275,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "已经",
+        "pinyin": "yǐjīng",
+        "english": "already"
     },
     {
         "id": 276,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "一起 ",
+        "pinyin": "yìqǐ",
+        "english": "together"
     },
     {
         "id": 277,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "可能",
+        "pinyin": "kěnéng",
+        "english": "maybe"
     },
     {
         "id": 278,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "正在",
+        "pinyin": "zhèngzài",
+        "english": "indicating action in progress"
     },
     {
         "id": 279,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "从",
+        "pinyin": "cóng",
+        "english": "from"
     },
     {
         "id": 280,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "向",
+        "pinyin": "xiàng",
+        "english": "towards"
     },
     {
         "id": 281,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "离",
+        "pinyin": "lí",
+        "english": "away from"
     },
     {
         "id": 282,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "比",
+        "pinyin": "bǐ",
+        "english": "than"
     },
     {
         "id": 283,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "和",
+        "pinyin": "hé",
+        "english": "and"
     },
     {
         "id": 284,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "但是",
+        "pinyin": "dànshì",
+        "english": "but"
     },
     {
         "id": 285,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "因为",
+        "pinyin": "yīnwèi",
+        "english": "because"
     },
     {
         "id": 286,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "所以",
+        "pinyin": "suǒyǐ",
+        "english": "so"
     },
     {
         "id": 287,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "喂",
+        "pinyin": "wèi",
+        "english": "hello (on the phone)"
     },
     {
         "id": 288,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "谢谢",
+        "pinyin": "xièxie",
+        "english": "thank you"
     },
     {
         "id": 289,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "不客气",
+        "pinyin": "búkèqi",
+        "english": "you're welcome"
     },
     {
         "id": 290,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "再见",
+        "pinyin": "zàijiàn",
+        "english": "goodbye"
     },
     {
         "id": 291,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "请",
+        "pinyin": "qǐng",
+        "english": "please..."
     },
     {
         "id": 292,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "对不起",
+        "pinyin": "duìbuqǐ",
+        "english": "sorry"
     },
     {
         "id": 293,
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
-        "type": ""
+        "chinese": "没关系",
+        "pinyin": "méi guānxi",
+        "english": "it's all right"
     },
     {
         "id": 294,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 295,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 296,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 297,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 298,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 299,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 300,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 301,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 302,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 303,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 304,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 305,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 306,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 307,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 308,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 309,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 310,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 311,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 312,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 313,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 314,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 315,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 316,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 317,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 318,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 319,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 320,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 321,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 322,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 323,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 324,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 325,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 326,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 327,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 328,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 329,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 330,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 331,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 332,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 333,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 334,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 335,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 336,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 337,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 338,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 339,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 340,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 341,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 342,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 343,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 344,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 345,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 346,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 347,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 348,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 349,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 350,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 351,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 352,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 353,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 354,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 355,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 356,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 357,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 358,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 359,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 360,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 361,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 362,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 363,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 364,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 365,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 366,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 367,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 368,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 369,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 370,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 371,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 372,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 373,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 374,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 375,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 376,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 377,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 378,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 379,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 380,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 381,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 382,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 383,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 384,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 385,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 386,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 387,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 388,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 389,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 390,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 391,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 392,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 393,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 394,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 395,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 396,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 397,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 398,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 399,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 400,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 401,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 402,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 403,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 404,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 405,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 406,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 407,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 408,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 409,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 410,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 411,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 412,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 413,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 414,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 415,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 416,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 417,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 418,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 419,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 420,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 421,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 422,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 423,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 424,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 425,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 426,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 427,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 428,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 429,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 430,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 431,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 432,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 433,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 434,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 435,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 436,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 437,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 438,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 439,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 440,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 441,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 442,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 443,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 444,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 445,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 446,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 447,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 448,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 449,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 450,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 451,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 452,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 453,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 454,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 455,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 456,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 457,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 458,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 459,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 460,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 461,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 462,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 463,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 464,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 465,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 466,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 467,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 468,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 469,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 470,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 471,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 472,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 473,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 474,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 475,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 476,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 477,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 478,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 479,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 480,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 481,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 482,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 483,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 484,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 485,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 486,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 487,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 488,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 489,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 490,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 491,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 492,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 493,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 494,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 495,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 496,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 497,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 498,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 499,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 500,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 501,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 502,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 503,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 504,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 505,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 506,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 507,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 508,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 509,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 510,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 511,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 512,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 513,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 514,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 515,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 516,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 517,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 518,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 519,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 520,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 521,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 522,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 523,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 524,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 525,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 526,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 527,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 528,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 529,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 530,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 531,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 532,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 533,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 534,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 535,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 536,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 537,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 538,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 539,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 540,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 541,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 542,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 543,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 544,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 545,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 546,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 547,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 548,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 549,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 550,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 551,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 552,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 553,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 554,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 555,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 556,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 557,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 558,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 559,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 560,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 561,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 562,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 563,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 564,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 565,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 566,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 567,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 568,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 569,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 570,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 571,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 572,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 573,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 574,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 575,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 576,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 577,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 578,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 579,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 580,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 581,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 582,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 583,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 584,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 585,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 586,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 587,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 588,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 589,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 590,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 591,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 592,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 593,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 594,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 595,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 596,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 597,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 598,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 599,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 600,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 601,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 602,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 603,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 604,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 605,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 606,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 607,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 608,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 609,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 610,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 611,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 612,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 613,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 614,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 615,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 616,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 617,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 618,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 619,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 620,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 621,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 622,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 623,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 624,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 625,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 626,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 627,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 628,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 629,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 630,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 631,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 632,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 633,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 634,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 635,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 636,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 637,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 638,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 639,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 640,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 641,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 642,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 643,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 644,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 645,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 646,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 647,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 648,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 649,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 650,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 651,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 652,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 653,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 654,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 655,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 656,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 657,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 658,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 659,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 660,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 661,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 662,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 663,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 664,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 665,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 666,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 667,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 668,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 669,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 670,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 671,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 672,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 673,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 674,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 675,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 676,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 677,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 678,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 679,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 680,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 681,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 682,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 683,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 684,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 685,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 686,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 687,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 688,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 689,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 690,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 691,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 692,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 693,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 694,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 695,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 696,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 697,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 698,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 699,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 700,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 701,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 702,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 703,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 704,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 705,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 706,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 707,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 708,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 709,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 710,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 711,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 712,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 713,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 714,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 715,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 716,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 717,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 718,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 719,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 720,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 721,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 722,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 723,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 724,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 725,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 726,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 727,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 728,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 729,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 730,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 731,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 732,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 733,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 734,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 735,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 736,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 737,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 738,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 739,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 740,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 741,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 742,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 743,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 744,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 745,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 746,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 747,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 748,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 749,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 750,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 751,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 752,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 753,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 754,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 755,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 756,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 757,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 758,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 759,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 760,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 761,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 762,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 763,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 764,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 765,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 766,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 767,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 768,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 769,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 770,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 771,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 772,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 773,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 774,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 775,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 776,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 777,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 778,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 779,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 780,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 781,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 782,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 783,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 784,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 785,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 786,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 787,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 788,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 789,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 790,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 791,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 792,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 793,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 794,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 795,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 796,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 797,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 798,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 799,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 800,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 801,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 802,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 803,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 804,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 805,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 806,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 807,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 808,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 809,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 810,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 811,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 812,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 813,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 814,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 815,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 816,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 817,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 818,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 819,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 820,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 821,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 822,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 823,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 824,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 825,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 826,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 827,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 828,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 829,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 830,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 831,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 832,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 833,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 834,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 835,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 836,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 837,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 838,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 839,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 840,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 841,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 842,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 843,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 844,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 845,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 846,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 847,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 848,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 849,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 850,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 851,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 852,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 853,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 854,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 855,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 856,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 857,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 858,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 859,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 860,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 861,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 862,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 863,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 864,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 865,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 866,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 867,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 868,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 869,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 870,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 871,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 872,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 873,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 874,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 875,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 876,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 877,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 878,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 879,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 880,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 881,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 882,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 883,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 884,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 885,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 886,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 887,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 888,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 889,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 890,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 891,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 892,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 893,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 894,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 895,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 896,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 897,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 898,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 899,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 900,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 901,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 902,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 903,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 904,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 905,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 906,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 907,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 908,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 909,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 910,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 911,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 912,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 913,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 914,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 915,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 916,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 917,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 918,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 919,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 920,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 921,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 922,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 923,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 924,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 925,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 926,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 927,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 928,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 929,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 930,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 931,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 932,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 933,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 934,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 935,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 936,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 937,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 938,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 939,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 940,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 941,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 942,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 943,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 944,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 945,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 946,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 947,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 948,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 949,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 950,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 951,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 952,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 953,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 954,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 955,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 956,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 957,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 958,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 959,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 960,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 961,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 962,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 963,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 964,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 965,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 966,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 967,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 968,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 969,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 970,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 971,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 972,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 973,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 974,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 975,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 976,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 977,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 978,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 979,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 980,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 981,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 982,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 983,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 984,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 985,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 986,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 987,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 988,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 989,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 990,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 991,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 992,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 993,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 994,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 995,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 996,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 997,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 998,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 999,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     },
     {
         "id": 1000,
         "chinese": "",
         "pinyin": "",
-        "english": "",
-        "type": ""
+        "english": ""
     }
 ]
